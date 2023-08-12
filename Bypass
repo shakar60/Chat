@@ -4,4 +4,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/F/main/Tool"
 
 -- Main Script --
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/.sc/main/.w",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/additional/betterbypasser", true))
